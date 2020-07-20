@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+ 
+This is the place where I opensource stuff and break things :rofl:
+
+- 🔭 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning AI, ML and Block Chain
+- 💬 Ask me about anything related to Javascript/Typescript/Python
+- 📫 How to reach me: [@233894432](https://twitter.com/233894432)
+- ⚡ Fun fact: I :heart: :dog:s
+
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
