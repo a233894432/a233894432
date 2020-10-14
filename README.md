@@ -27,7 +27,6 @@ This is the place where I opensource stuff and break things :rofl:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   17 mins         █████████████████▓░░░░░░░   70.45 % 
-Vue.js       7 mins          ███████▒░░░░░░░░░░░░░░░░░   29.05 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
