@@ -27,6 +27,9 @@ This is the place where I opensource stuff and break things :rofl:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   1 hr 24 mins    ███████████████████░░░░░░   75.55 % 
+JSON         14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+JavaScript   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+LESS         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 <!--END_SECTION:waka-->
