@@ -27,8 +27,6 @@ This is the place where I opensource stuff and break things :rofl:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Total: 23 hrs 34 mins
-
 TypeScript   15 hrs 57 mins  █████████████████░░░░░░░░   67.69 % 
 JavaScript   3 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 % 
 JSON         1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
