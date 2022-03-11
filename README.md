@@ -28,9 +28,8 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-Go           1 hr            ███████░░░░░░░░░░░░░░░░░░   27.95 %
-Markdown     43 mins         █████░░░░░░░░░░░░░░░░░░░░   20.22 %
-Other        43 mins         █████░░░░░░░░░░░░░░░░░░░░   20.07 %
+Markdown     51 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.23 %
+Other        42 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
 ```
 
 <!--END_SECTION:waka-->
