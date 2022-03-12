@@ -28,8 +28,10 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     51 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.23 %
-Other        42 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
+Markdown     41 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.93 %
+HTML         40 mins         ██████░░░░░░░░░░░░░░░░░░░   24.55 %
+Vue.js       32 mins         █████░░░░░░░░░░░░░░░░░░░░   19.51 %
+Other        22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
 ```
 
 <!--END_SECTION:waka-->
