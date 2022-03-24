@@ -28,8 +28,7 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-JSON         1 hr 29 mins    ███████▓░░░░░░░░░░░░░░░░░   31.11 %
-Other        1 hr 13 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.75 %
+Other                      1 hr 35 mins    ███████▓░░░░░░░░░░░░░░░░░   30.08 %
 ```
 
 <!--END_SECTION:waka-->
