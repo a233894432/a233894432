@@ -28,9 +28,9 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-JSON                       2 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   27.81 %
-TypeScript                 2 hrs 32 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.84 %
-Other                      1 hr 56 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
+JSON                       2 hrs 50 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.10 %
+TypeScript                 2 hrs 32 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.32 %
+Other                      2 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
 ```
 
 <!--END_SECTION:waka-->
