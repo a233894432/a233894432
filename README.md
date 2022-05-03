@@ -28,12 +28,12 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 54 mins   ████████████▓░░░░░░░░░░░░   51.32 %
-Vue.js       2 hrs 21 mins   ██████░░░░░░░░░░░░░░░░░░░   24.63 %
-HTML         1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
-TypeScript   24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-JSON         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Markdown     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+JavaScript   3 hrs 9 mins    ███████████▒░░░░░░░░░░░░░   45.25 %
+Vue.js       2 hrs 9 mins    ███████▓░░░░░░░░░░░░░░░░░   31.03 %
+HTML         1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+TypeScript   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+SCSS         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
