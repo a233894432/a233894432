@@ -28,12 +28,12 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript      9 hrs 27 mins   ██████████▓░░░░░░░░░░░░░░   43.21 %
-HTML            4 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.61 %
-SCSS            4 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
-Markdown        1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-Go              1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-Docker          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+JavaScript      11 hrs 57 mins  ███████████▒░░░░░░░░░░░░░   45.46 %
+HTML            6 hrs 1 min     █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
+SCSS            4 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
+Markdown        1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+Go              1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Docker          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
