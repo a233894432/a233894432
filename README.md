@@ -29,8 +29,8 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-Go              2 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
-Other           1 hr 42 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
+Go              1 hr 43 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
+Other           1 hr 38 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
 ```
 
 <!--END_SECTION:waka-->
