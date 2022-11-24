@@ -29,8 +29,8 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-Go              1 hr 43 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
-Other           1 hr 38 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
+Vue.js          1 hr 30 mins    █████░░░░░░░░░░░░░░░░░░░░   19.67 %
+Other           1 hr 12 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
 ```
 
 <!--END_SECTION:waka-->
