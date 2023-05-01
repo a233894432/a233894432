@@ -29,9 +29,7 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   13 mins         ███████████████░░░░░░░░░░   60.37 %
-Vue.js       8 mins          █████████▓░░░░░░░░░░░░░░░   39.09 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
