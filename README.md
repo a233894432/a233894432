@@ -29,7 +29,10 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   31 mins         ████████████▒░░░░░░░░░░░░   49.64 %
+JSON         28 mins         ███████████▒░░░░░░░░░░░░░   45.33 %
+Markdown     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
