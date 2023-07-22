@@ -29,11 +29,11 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       1 hr 57 mins    ██████████░░░░░░░░░░░░░░░   40.08 %
-Go           1 hr 2 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
-TypeScript   57 mins         █████░░░░░░░░░░░░░░░░░░░░   19.57 %
-TOML         29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
-Other        15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Vue.js       1 hr 58 mins    ███████████░░░░░░░░░░░░░░   44.64 %
+TypeScript   49 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
+Other        36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
+TOML         29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+Go           23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
 ```
 
 <!--END_SECTION:waka-->
