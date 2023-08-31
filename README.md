@@ -29,11 +29,11 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Go               4 hrs 38 mins   ████████▒░░░░░░░░░░░░░░░░   33.37 %
-JavaScript       4 hrs 14 mins   ███████▓░░░░░░░░░░░░░░░░░   30.43 %
-JSON             2 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.96 %
-Vue.js           1 hr 27 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
-Markdown         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+JavaScript       3 hrs 55 mins   ████████░░░░░░░░░░░░░░░░░   32.43 %
+Go               3 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   28.35 %
+JSON             3 hrs 9 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.11 %
+Vue.js           55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+Markdown         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->
