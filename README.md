@@ -29,11 +29,11 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Objective-C                35 mins         ██████████████████▓░░░░░░   74.04 %
-GDScript                   6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
-TypeScript                 2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-Vue.js                     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-Markdown                   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Vue.js                     53 mins         ████████████▒░░░░░░░░░░░░   49.79 %
+Objective-C                35 mins         ████████▒░░░░░░░░░░░░░░░░   32.68 %
+TypeScript                 8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+GDScript                   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+JSON                       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
