@@ -29,11 +29,11 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON                       1 hr 22 mins    ████████░░░░░░░░░░░░░░░░░   32.25 %
-Vue.js                     1 hr 15 mins    ███████▒░░░░░░░░░░░░░░░░░   29.53 %
-Objective-C                35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
-JavaScript                 33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
-TypeScript                 15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+JSON                       1 hr 34 mins    ████████░░░░░░░░░░░░░░░░░   32.19 %
+Vue.js                     1 hr 34 mins    ████████░░░░░░░░░░░░░░░░░   32.08 %
+Objective-C                35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
+JavaScript                 33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+TypeScript                 17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
 ```
 
 <!--END_SECTION:waka-->
