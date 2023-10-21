@@ -29,10 +29,7 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js           19 mins         ████████████░░░░░░░░░░░░░   48.21 %
-JSON             12 mins         ████████░░░░░░░░░░░░░░░░░   31.81 %
-ActionScript 3   6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
-TypeScript       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
