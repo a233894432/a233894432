@@ -29,7 +29,8 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other   0 secs          █████████████████▒░░░░░░░   68.74 %
+XML     0 secs          ███████▓░░░░░░░░░░░░░░░░░   31.26 %
 ```
 
 <!--END_SECTION:waka-->
