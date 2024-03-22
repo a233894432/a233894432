@@ -29,7 +29,7 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 12 mins    █████████████████████████   100.00 %
+JavaScript   10 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
