@@ -25,16 +25,6 @@ This is the place where I opensource stuff and break things :rofl:
 - ⚡ Fun fact: I :heart: :dog:
   
 
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸]()
 
